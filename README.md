@@ -1,5 +1,5 @@
 # One Month Rails
 
 This is the sample application for 
-One mOnth Rails.com
-by Trisha
+One month Rails.com
+by Trisha Sebastian
